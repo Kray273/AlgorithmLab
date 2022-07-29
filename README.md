@@ -1,4 +1,8 @@
 # AlgorithmLab
 Bigdata lecture
 
-Day1
+Day19
+
+Day20
+
+Day21
