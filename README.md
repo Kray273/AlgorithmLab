@@ -1,5 +1,5 @@
 # AlgorithmLab
-Bigdata lecture
+Bigdata lecture https://www.notion.so/ce0f5d22bf4848baa4ece180773255bd?v=2dec0a18a2874eb38ea88e972b06170e
 
 Day19 https://www.notion.so/Day19-6973ea155e4e4a46a1cf2d6d8bf7d4d2
 
