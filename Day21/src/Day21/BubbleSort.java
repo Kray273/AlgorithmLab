@@ -14,8 +14,8 @@ public class BubbleSort {
 		for (k = 0; k < arr.length; k++) {
 			for(i=4; i > k; i--) {
 				if(arr[i-1] > arr[i]){
-					int t = 0;
-					t = arr[i-1];
+//					int t = 0;
+					int t = arr[i-1];
 					arr[i-1] = arr[i];
 					arr[i] = t;
 				}
