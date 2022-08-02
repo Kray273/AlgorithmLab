@@ -1,4 +1,4 @@
-package Day19_1;
+package BinarySearch;
 
 public class Binary {
 	public static void main(String[] args) {

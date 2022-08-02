@@ -1,4 +1,4 @@
-package Day19_1;
+package LinearSearch;
 
 public class Linear {
 	public static void main(String[] args) {

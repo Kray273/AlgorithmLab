@@ -1,4 +1,4 @@
-package Day20;
+package SelectionSort;
 
 public class SelectionSort {
 

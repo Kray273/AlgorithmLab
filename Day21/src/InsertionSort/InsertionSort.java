@@ -1,4 +1,4 @@
-package Day21;
+package InsertionSort;
 import java.util.*;
 public class InsertionSort {
 

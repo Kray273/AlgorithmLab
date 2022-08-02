@@ -1,4 +1,4 @@
-package Day21;
+package BubbleSort;
 
 public class BubbleSort {
 
