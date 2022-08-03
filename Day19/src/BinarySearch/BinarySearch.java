@@ -1,6 +1,6 @@
 package BinarySearch;
 
-public class Binary {
+public class BinarySearch {
 	public static void main(String[] args) {
 		int[] arr = {11,13,17,18,23,29,31};
 		int ans = 17;

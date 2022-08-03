@@ -1,6 +1,6 @@
 package LinearSearch;
 
-public class Linear {
+public class LinearSearch {
 	public static void main(String[] args) {
 		int[] arr = {4,2,3,5,1};
 		int i;
