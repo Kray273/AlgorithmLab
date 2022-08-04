@@ -1,6 +1,8 @@
 # AlgorithmLab
 Bigdata lecture https://www.notion.so/ce0f5d22bf4848baa4ece180773255bd?v=2dec0a18a2874eb38ea88e972b06170e
 
+ALL https://www.notion.so/E_Algorithm-fd803dc6b87f48458afc90f7791446b5
+
 Day19 https://www.notion.so/Day19-6973ea155e4e4a46a1cf2d6d8bf7d4d2
 
 Day20 https://www.notion.so/Day20-0cf39b2edec440edb59b67003e5f50d0
