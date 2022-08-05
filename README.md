@@ -15,3 +15,5 @@ Day25 https://www.notion.so/Day25-3a5d3f75493848feb038ed2f29f3c6d0
 
 Day26 https://www.notion.so/Day26-7107a0ed0a1e468eabeb01e7d5d95bac
 
+Day27 https://www.notion.so/Day27-7355461c1e90405c8fc5dc840d6d7768
+
