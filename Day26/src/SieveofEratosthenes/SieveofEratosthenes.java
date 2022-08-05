@@ -43,10 +43,14 @@ public class SieveofEratosthenes {
 		System.out.println(Arrays.toString(arr));
 		
 		//소수를 출력(0을 출력) 
+		int count = 0;
 		for (int i = 2; i < arr.length-1; i++) {
 			if(arr[i] == 0) {
 				System.out.print(i+", ");
+				count++;
 			}
 		}
+		System.out.println();
+		System.out.println("소수의 수 : "+count);
 	}
 }
